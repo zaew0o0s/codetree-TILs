@@ -3,7 +3,7 @@ answer = []
 if a < b:
     answer.append(1)
 else:
-    answer.appent(0)
+    answer.append(0)
 
 if a == b:
     answer.append(1)
